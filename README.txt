@@ -1,0 +1,1 @@
+Some of these files contain dependencies that are not included — to run files that import from the library "gui," you must download Jython Music and move the file to that workspace. The package can be found at jythonmusic.org  Otherwise, all files can be run in a Python IDE or from the terminal using the command python -i <filename>
